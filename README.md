@@ -1,2 +1,2 @@
 # MVA-PlantNet
-The resuorce of mva-PlantNet
+The resuorce of MVA-PlantNet
